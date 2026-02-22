@@ -116,3 +116,13 @@ cloud-init[1055]: Cloud-init v. 24.1.3-0ubuntu3 finished at Fri, 19 Apr 2024 14:
 用户：ubuntu
 密码: ubuntu
 ```
+
+### deepin 23
+
+下载地址： [https://cdimage.deepin.com/releases/25.0.10/riscv64/deepin-desktop-community-25.0.10-riscv64.iso](https://cdimage.deepin.com/releases/25.0.10/riscv64/deepin-desktop-community-25.0.10-riscv64.iso)
+
+### fedora 42
+
+介绍：[https://images.fedoravforce.org/Mars](https://images.fedoravforce.org/Mars)
+desktop:[https://mirror.iscas.ac.cn/fedora-riscv/releases/42/Spins/riscv64/images/StarFive-JH7110/StarFive-VisionFive2/Fedora-Xfce-42-20250711142151.riscv64.StarFive-JH7110.StarFive-VisionFive2.raw.gz](https://mirror.iscas.ac.cn/fedora-riscv/releases/42/Spins/riscv64/images/StarFive-JH7110/StarFive-VisionFive2/Fedora-Xfce-42-20250711142151.riscv64.StarFive-JH7110.StarFive-VisionFive2.raw.gz)
+server:[https://mirror.iscas.ac.cn/fedora-riscv/releases/42/Spins-nonfree/riscv64/images/StarFive-JH7110/StarFive-VisionFive2/Fedora-GNOME-42-20250713042923.riscv64.StarFive-JH7110.StarFive-VisionFive2.raw.gz](https://mirror.iscas.ac.cn/fedora-riscv/releases/42/Spins-nonfree/riscv64/images/StarFive-JH7110/StarFive-VisionFive2/Fedora-GNOME-42-20250713042923.riscv64.StarFive-JH7110.StarFive-VisionFive2.raw.gz)
